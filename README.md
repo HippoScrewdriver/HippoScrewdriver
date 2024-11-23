@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m studying Computer Science and Mathematics at UW.
-- 🌱 I’m learning Sprint Boot, ReactJS, Vue for full-stack development.
+- 🔭 I’m studying Computer Science and Mathematics at University of Washington, Seattle.
+- 🌱 I’m learning Spring Boot, ReactJS, Vue for full-stack development.
 - 🧐 I’m working on multi axis 3d printing research at Ubicomp Lab at UW.
 - 🤖 I develop auto navigation system at Advanced Robotics at UW.
 - 💻 I like Computer Basics, including Operating System, Physical Layer of Computer, and Network basics.
