@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Xiaoyi alias Hipposcrewdriver
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m studying Computer Science and Mathematics at University of Washington, Seattle.
 - 🌱 I’m learning Spring Boot, ReactJS, Vue for full-stack development.
