@@ -11,7 +11,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: xiaoyiw5179@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: English Calligrapher & Tolkien's series & Cosplayt
+- ⚡ Fun fact: English Calligrapher & Tolkien's series & Cosplay
 
 <!--
 **HippoScrewdriver/HippoScrewdriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
